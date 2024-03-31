@@ -11,6 +11,7 @@ header img {
 body{
   background-color: rgba(0, 255, 255, 0.849);
  min-height:  100vh;
+ user-select: none;
 }
 button{
   margin-right: 1px;
